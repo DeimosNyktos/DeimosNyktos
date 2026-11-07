@@ -9,7 +9,7 @@ I'm a **Web Application Development** student who likes building small, useful t
 ## Currently
 
 - Studying HTML, CSS, XML, Java, JavaScript and SQL
-- Studying French 🇫🇷
+- Studying French
 
 ## Languages
 
