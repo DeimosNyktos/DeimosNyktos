@@ -1,4 +1,4 @@
-# Hi, I'm Deimos 👋
+# Hi, I'm Deimos :)
 
 I'm a **Web Application Development** student who likes building small, useful tools.
 
