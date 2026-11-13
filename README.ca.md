@@ -4,7 +4,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/DeimosNyktos">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=640&lines=Creant+eines+petites+i+%C3%BAtils+i+aprenent-ne;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+Java+%C2%B7+SQL;Catal%C3%A0+%C2%B7+Espa%C3%B1ol+%C2%B7+English" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=640&lines=Creant+petites+eines+%C3%BAtils+i+aprenent+d%27elles;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+Java+%C2%B7+SQL;Catal%C3%A0+%C2%B7+Espa%C3%B1ol+%C2%B7+English" alt="Typing animation" />
   </a>
 </p>
 
